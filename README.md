@@ -16,7 +16,8 @@ I dont only know web programing languages, I also learnt :
 * C++ (damn that's so hard  :disappointed_relieved:)
 * Python
 * Flutter
-* Java  
+* Java
+
 I create my own website design, and I'll __never__ (ever) use Bootstrap (except if my boss fire me if I dont). It's not that hard to create our own website, is it ?  
 To make my design I'm using figma, and sometimes I create my own logo (such as Instagram, or thumbnail).  
 
