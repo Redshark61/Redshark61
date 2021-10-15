@@ -21,9 +21,15 @@ I dont only know web programing languages, I also learnt :
 I create my own website design, and I'll **never** (ever) use Bootstrap (except if my boss fire me if I dont). It's not that hard to create our own design, is it ?  
 To make my design I'm using figma, and I can create my own logo (such as Instagram, or thumbnail).
 
+## Some stats
+
+[![Redshark61 GitHub stats](https://github-readme-stats.vercel.app/api?username=Redshark61&hide=stars,prs,contribs&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redshark61&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My work
 
-I made my own website : [Tcode](https:/tcode.fr). Everything here is made by myself (I'm quite proud of me :smile:). You can check out the [source code](https://github.com/Redshark61/site_perso) on my github.
+I made my own website : [Tcode](https://tcode.fr). Everything here is made by myself (I'm quite proud of me :smile:). You can check out the [source code](https://github.com/Redshark61/site_perso) on my github.
 
 ## How to contact me
 
