@@ -14,7 +14,11 @@ I mostly use _PHP_, _CSS_ and _Js_. I recently turned to _Scss_, and I planed to
 I dont only know web programing languages, I also learnt :
 
 - C++
-- Python
+- Python (Django)
+- PHP
+- MySQL
+- React
+- Jacascript
 - Flutter
 - Java
 
@@ -33,4 +37,4 @@ I made my own website : [Tcode](https://tcode.fr). Everything here is made by my
 
 ## How to contact me
 
-You dont contact me, I'm the one who contact you... :smiling_imp:
+You can contact me at tim.vannier@gmail.com.
